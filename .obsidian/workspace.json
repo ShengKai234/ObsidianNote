@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2837f85c7f164bfc",
+        "id": "02ebba74e756f089",
         "type": "tabs",
         "children": [
           {
-            "id": "09c820ae87d9aea8",
+            "id": "d7e8c9c7e21779df",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".tmp.driveupload/23873",
-                "bFile": ".tmp.driveupload/23873",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 23873  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -191,7 +187,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "09c820ae87d9aea8",
+  "active": "47d1920201f7e9b4",
   "lastOpenFiles": [
     "Untitled.base",
     "README.md"
